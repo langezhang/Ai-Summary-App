@@ -89,8 +89,8 @@ npm run start  # Serve the production build
 
 ## Roadmap
 
-- [x] Initialize a Next.js + TypeScript application
-- [x] Add a landing page and backend health check
+- [ ] Initialize a Next.js + TypeScript application
+- [ ] Add a landing page and backend health check
 - [ ] Add text input and summary results
 - [ ] Integrate a language model API on the server
 - [ ] Support summary length, language, and output-format options
