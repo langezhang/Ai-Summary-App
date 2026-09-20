@@ -2,6 +2,8 @@
 
 # Ai-Summary-App
 
+**简体中文** | [English](README.en.md)
+
 **让长内容更易读，让关键信息更清晰。**
 
 An early-stage foundation for an AI-powered summarization app.
@@ -63,6 +65,7 @@ Backend says: Next.js backend is running
 ```text
 Ai-Summary-App/
 ├── README.md
+├── README.en.md               # English documentation
 └── my-app/                    # 应用目录，npm 命令在这里执行
     ├── app/
     │   ├── page.tsx           # 首页与健康检查交互
