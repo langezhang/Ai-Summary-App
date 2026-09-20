@@ -96,8 +96,8 @@ npm run start  # 启动已构建的应用
 
 ## 开发路线
 
-- [x] 初始化 Next.js + TypeScript 应用
-- [x] 实现首页和后端健康检查
+- [ ] 初始化 Next.js + TypeScript 应用
+- [ ] 实现首页和后端健康检查
 - [ ] 增加文本输入与摘要结果展示
 - [ ] 在服务端接入大模型 API
 - [ ] 支持摘要长度、语言与输出格式选择
@@ -184,8 +184,8 @@ npm run start  # Serve the production build
 
 ## Roadmap
 
-- [x] Initialize a Next.js + TypeScript application
-- [x] Add a landing page and backend health check
+- [ ] Initialize a Next.js + TypeScript application
+- [ ] Add a landing page and backend health check
 - [ ] Add text input and summary results
 - [ ] Integrate a language model API on the server
 - [ ] Support summary length, language, and output-format options
