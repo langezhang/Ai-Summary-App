@@ -28,16 +28,14 @@ Click a language heading below to expand or collapse its content on this page.
 
 ## 项目介绍
 
-Ai-Summary-App 探索一个简单的阅读流程：输入内容，提炼要点，再把摘要带回日常学习和工作。项目采用 Next.js 全栈结构，将页面交互与 API 放在同一个应用中，为后续接入大模型摘要能力打基础。
-
-> **当前阶段：基础原型。** 仓库已实现首页和前后端连通性检查，尚未接入大模型，也尚未实现文本摘要或文档上传。下面的开发路线代表后续方向。
+Ai-Summary-App 探索一个简单的阅读流程，输入内容，提炼要点，再把摘要带回日常学习和工作。项目采用 Next.js 全栈结构，将页面交互与 API 放在同一个应用中，为后续接入大模型摘要能力打基础。
 
 ## 当前实现
 
-- **应用首页**：React 客户端页面，展示应用名称和后端连接状态。
-- **一键健康检查**：点击 `Check backend` 调用 `/api/health`，在页面显示结果。
-- **同源 API 路由**：使用 Next.js App Router 的 Route Handler 返回 JSON。
-- **开发基础**：TypeScript、Tailwind CSS 4 和 ESLint 配置。
+- **应用首页**：React 客户端页面，展示应用名称和后端连接状态
+- **一键健康检查**：点击 `Check backend` 调用 `/api/health`，在页面显示结果
+- **同源 API 路由**：使用 Next.js App Router 的 Route Handler 返回 JSON
+- **开发基础**：TypeScript、Tailwind CSS 4 和 ESLint 配置
 
 ## 本地运行
 
